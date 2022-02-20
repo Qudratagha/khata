@@ -444,7 +444,7 @@ $sql2=mysqli_query($con,"update clientkhata set rid = '$postId', cid = '$id' whe
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <img src="dist/img/user2-160x160.jpeg" class="user-image" alt="User Image"/>
-                  <span class="hidden-xs">Tayyab Paracha</span>
+                  <span class="hidden-xs">Asfand Afridi</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
