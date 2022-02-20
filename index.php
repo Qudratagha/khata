@@ -425,7 +425,7 @@ $sql2=mysqli_query($con,"update clientkhata set rid = '$postId', cid = '$id' whe
     <div class="wrapper">      
       <header class="main-header">
         <!-- Logo -->
-        <a href="index.php" class="logo"><b>Tayyab</b>Traders</a>
+        <a href="index.php" class="logo"><b>Asfand</b>Traders</a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
           <!-- Sidebar toggle button-->
